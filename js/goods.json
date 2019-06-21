@@ -1,0 +1,47 @@
+[
+    {
+      "title":"Audi A6",
+      "url": "Audi",
+      "description":"The car will surprise you",
+      "price": 200000,
+      "img":"./img/audi.jpg",
+      "categoryId": 1,
+      "id": 1
+    },
+    {
+      "title":"Dog Chaki",
+      "url": "Chaki",
+      "description":"Find a loyal friend or help him find a family ",
+      "price": 300,
+      "img":"./img/dog.jpg",
+      "categoryId": 1,
+      "id": 2
+    },
+    {
+      "title":"Xiomi mi2 ",
+      "url": "mi2",
+      "description":"Xiaomi's best company column",
+      "price": 4000,
+      "img":"./img/xiaomi.png",
+      "categoryId": 3,
+      "id": 3
+    },
+    {
+      "title":"Sony X34",
+      "url": "X34",
+      "description":"Here you can find video equipment by Sony",
+      "price": 10000,
+      "img":"./img/sony.jpg",
+      "categoryId": 1,
+      "id": 4
+    },
+    {
+      "title":"HP Follio 9470",
+      "url": "Follio",
+      "description":"HP notebook is a good choice ",
+      "price": 7000,
+      "img":"./img/folio.jpg",
+      "id": 5
+    }
+  ]
+  

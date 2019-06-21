@@ -1,0 +1,32 @@
+[
+  {
+    "title":"Auto",
+    "url": "auto",
+    "description":"Cars, spare parts, accessories and more can be found in this section",
+    "id": 1
+  },
+  {
+    "title":"Pets",
+    "url": "pets",
+    "description":"Finding a loyal friend or helping him find your family is here",
+    "id": 2
+  },
+  {
+    "title":"Audio",
+    "url": "audio",
+    "description":"Here you can find audio equipment of any choice",
+    "id": 3
+  },
+  {
+    "title":"Video",
+    "url": "video",
+    "description":"Here you can find video equipment of any choice",
+    "id": 4
+  },
+  {
+    "title":"Computers",
+    "url": "computers",
+    "description":"computers, laptops and accessories you can find here",
+    "id": 5
+  }
+]
